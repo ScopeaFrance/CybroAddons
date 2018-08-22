@@ -32,7 +32,7 @@
     'depends': ['base', 'hr', 'sale'],
     'images': ['static/description/banner.jpg'],
     'license': 'LGPL-3',
-    'installable': True,
+    'installable': False,
     'auto_install': False,
     'external_dependencies': {'python': ['validate_email', 'pyDNS']},
     'application': False,
